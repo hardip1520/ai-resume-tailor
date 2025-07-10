@@ -27,8 +27,8 @@ Tailor your resume bullet points to match any job description using a local LLM 
 
 ## 🖥️ Screenshot
 
-<img width="1000" height="500" alt="demo-2" src="https://github.com/user-attachments/assets/266d282a-ec84-4108-9e06-ee2eb06b9c09" />
-<img width="1000" height="500" alt="Demo- image" src="https://github.com/user-attachments/assets/68c4e4a9-8f56-4f5f-b351-7f357dad7c60" />
+<img width="500" height="500" alt="demo-2" src="https://github.com/user-attachments/assets/266d282a-ec84-4108-9e06-ee2eb06b9c09" />
+<img width="500" height="500" alt="Demo- image" src="https://github.com/user-attachments/assets/68c4e4a9-8f56-4f5f-b351-7f357dad7c60" />
 
 
 ## 🔧 Tech Stack
